@@ -1,3 +1,4 @@
+id,track_name,artist_name,preview_url,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,multiclass_label
 14usFmu6ZuP3i5VBFMMSp5,Love Sensation - A Tom Moulton Mix,Loleatta Holloway,https://p.scdn.co/mp3-preview/61af9bf3411397f6ad8f281944abd0843f84356d?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.729,0.802,9,-8.196,0,0.046,0.0472,0.034,0.148,0.802,115.907,394533,4,8
 3pf96IFggfQuT6Gafqx2rt,Sunny,Boney M.,https://p.scdn.co/mp3-preview/dd07d16b7a206e52cb678355c9a061e20bc62c5e?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.647,0.868,0,-6.427,0,0.106,0.088,0.124,0.129,0.804,121.82,242240,4,8
 4cTSigQmLfTKYmJUd6rlrv,"Relight My Fire - 12"" Disco Remix",Dan Hartman,https://p.scdn.co/mp3-preview/a626df22cf422cb8f54fd251c8855ae933e078af?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.767,0.783,0,-10.406,1,0.0368,0.0477,5.97e-06,0.0709,0.891,120.611,406213,4,8

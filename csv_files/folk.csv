@@ -1,3 +1,4 @@
+id,track_name,artist_name,preview_url,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,multiclass_label
 78fE6GJay1PbThXWGXOnM9,Make You Feel My Love - Take 1,Bob Dylan,https://p.scdn.co/mp3-preview/bbe82c8317ef81b55892439848e049833b7663b5?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.472,0.197,1,-9.464,1,0.0342,0.826,0.0293,0.144,0.146,74.1,250413,1,9
 6l8EbYRtQMgKOyc1gcDHF9,Bridge Over Troubled Water,Simon & Garfunkel,https://p.scdn.co/mp3-preview/e80a149b25c33d4e44579f7096b509fe379b0bc7?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.149,0.206,3,-13.888,1,0.0323,0.822,0.000649,0.115,0.264,79.764,293120,4,9
 0gctFhy7ZomaBNuUrFnjrU,Lungs - Live,Townes Van Zandt,https://p.scdn.co/mp3-preview/4a179e15ed4f1e0fa9a7d55f71a8dae9e3b84e7b?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.544,0.34,2,-13.947,1,0.0411,0.785,3.89e-06,0.734,0.556,97.005,154187,4,9

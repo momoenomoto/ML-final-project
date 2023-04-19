@@ -1,3 +1,4 @@
+id,track_name,artist_name,preview_url,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,multiclass_label
 0ELnNmc1vQFW3aPEzQ5zOg,Confetti,Charlotte Cardin,https://p.scdn.co/mp3-preview/c4436e47f46fa71e4aa1424853057ae8a1b4e2cb?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.798,0.496,3,-5.825,1,0.106,0.539,1.21e-06,0.325,0.448,111.055,184650,4,2
 3BKD1PwArikchz2Zrlp1qi,Baby Don't Hurt Me,David Guetta,https://p.scdn.co/mp3-preview/a8f2e176e17e0f6298b42ef8e96118318fdd2b89?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.602,0.91,7,-3.404,1,0.0308,0.00126,0.000174,0.12,0.228,127.944,140018,4,2
 3AAY8YicetRPlDAkibHLiS,Jaded,Miley Cyrus,https://p.scdn.co/mp3-preview/b70d6946222644d6d88d5b88fe0c8446c6240bd0?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.496,0.593,4,-5.154,1,0.0285,0.0476,0,0.0909,0.177,91.038,185933,4,2

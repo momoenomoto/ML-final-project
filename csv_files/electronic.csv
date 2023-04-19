@@ -1,3 +1,4 @@
+id,track_name,artist_name,preview_url,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,multiclass_label
 09jgiJE4renLFOUgqxSWml,Cormoran,Jonas Saalbach,https://p.scdn.co/mp3-preview/b943296e1cb830eb4eafd4a473c87bf9321b82b6?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.765,0.928,6,-7.204,0,0.0684,0.212,0.929,0.0968,0.104,124.982,388166,4,5
 6JxuJ8cN23pKfp1ohahDYj,Strange,Daniel Levak,https://p.scdn.co/mp3-preview/8164f90ca750462f0167ede0bae2ade5d6f0c57d?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.664,0.994,7,-7.026,1,0.0559,0.00138,0.846,0.104,0.379,132.014,360000,4,5
 4prvj25xjRhb9LkXOFjGhH,Reflection,Denise Schneider,https://p.scdn.co/mp3-preview/397d61ddc05a4466f3a18319f0f1fba857b7a1ad?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.658,0.905,11,-6.596,0,0.048,0.011,0.859,0.0475,0.332,130.006,373027,4,5

@@ -1,3 +1,4 @@
+id,track_name,artist_name,preview_url,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,multiclass_label
 1a2iF9XymafjRk56q7oCxo,Pride and Joy,Stevie Ray Vaughan,https://p.scdn.co/mp3-preview/8faa93aa2d3e22a430ee9685e3ad2695c5508417?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.427,0.626,8,-11.821,1,0.0385,0.0274,0.00395,0.106,0.743,126.877,219587,4,4
 58PSYdY0GFg0LFb2PxYk4T,Mannish Boy,Muddy Waters,https://p.scdn.co/mp3-preview/4cfb55a2ddbd24a5538f21588a85fa5727025aa7?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.598,0.735,2,-10.882,1,0.0973,0.44,0.000215,0.681,0.615,111.129,321133,3,4
 3XxBSvDZKH5YvZZjTpn6eR,Red House,Jimi Hendrix,https://p.scdn.co/mp3-preview/89d1193245276db49d88c866ec02f80c76512b8b?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.277,0.479,5,-8.483,0,0.0495,0.585,0.0224,0.16,0.483,53.905,230360,4,4

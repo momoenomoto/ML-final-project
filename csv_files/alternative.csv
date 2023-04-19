@@ -1,3 +1,4 @@
+id,track_name,artist_name,preview_url,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,multiclass_label
 2QjOHCTQ1Jl3zawyYOpxh6,Sweater Weather,The Neighbourhood,https://p.scdn.co/mp3-preview/877602f424a9dea277b13301ffc516f9fd1fbe7e?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,240400,4,10
 3AJwUDP919kvQ9QcozQPxg,Yellow,Coldplay,https://p.scdn.co/mp3-preview/c0d9119dc69cae75baf6463e21e43f433fdf5ff4?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,266773,4,10
 5FVd6KXrgO9B3JPmC8OPst,Do I Wanna Know?,Arctic Monkeys,https://p.scdn.co/mp3-preview/006bc465fe3d1c04dae93a050eca9d402a7322b8?cid=7ed7c46c328045f7bc4fca6c7d81d3c0,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,272394,4,10

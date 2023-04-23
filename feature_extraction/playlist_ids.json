@@ -1,12 +1,55 @@
 {
-  "rock": "37i9dQZF1DWXRqgorJj26U",
-  "pop": "37i9dQZF1DXarRysLJmuju",
-  "hiphop": "37i9dQZF1DX48TTZL62Yht",
-  "blues": "37i9dQZF1DXd9rSDyQguIk",
-  "electronic": "37i9dQZF1DX8AliSIsGeKd",
-  "jazz": "37i9dQZF1DXbITWG1ZJKYt",
-  "classical": "37i9dQZF1DWWEJlAGA9gs0",
-  "disco": "37i9dQZF1DWTZQgENtHuxI",
-  "folk": "37i9dQZF1DWVmps5U8gHNv",
-  "alternative": "37i9dQZF1DX9GRpeH4CL0S"
+  "rock": [
+    "37i9dQZF1DWXRqgorJj26U",
+    "3qu74M0PqlkSV76f98aqTd",
+    "37i9dQZF1DX68H8ZujdnN7"
+  ],
+  "pop": [
+    "37i9dQZF1DXarRysLJmuju",
+    "3ZgmfR6lsnCwdffZUan8EA",
+    "37i9dQZF1DWVcJK7WY4M52"
+  ],
+  "hiphop": [
+    "37i9dQZF1DX48TTZL62Yht",
+    "06KmJWiQhL0XiV6QQAHsmw",
+    "37i9dQZF1DX186v583rmzp"
+  ],
+  "blues": [
+    "37i9dQZF1DXd9rSDyQguIk",
+    "37i9dQZF1EQpz3DZCEoX3g",
+    "37i9dQZF1DWYi488IywmOA"
+  ],
+  "electronic": [
+    "37i9dQZF1DX8AliSIsGeKd",
+    "1zsMB814a8VhwohGe2ZTpd",
+    "37i9dQZF1DXdXliePGSvEb"
+  ],
+  "jazz": [
+    "37i9dQZF1DXbITWG1ZJKYt",
+    "74noNdXFX1lUuB03QDqKFi",
+    "37i9dQZF1DX5LYxFep0J7E",
+    "37i9dQZF1DWV7EzJMK2FUI"
+  ],
+  "classical": [
+    "37i9dQZF1DWWEJlAGA9gs0",
+    "5qUesesbOQWpC7ybZiC0VO",
+    "1h0CEZCm6IbFTbxThn6Xcs",
+    "27Zm1P410dPfedsdoO9fqm",
+    "37i9dQZF1DX8Sz1gsYZdwj"
+  ],
+  "disco": [
+    "37i9dQZF1DWTZQgENtHuxI",
+    "37i9dQZF1DX2GKumqRIZ7g",
+    "5B3gb8HbvFm02ccQVH33IO"
+  ],
+  "folk": [
+    "37i9dQZF1DWVmps5U8gHNv",
+    "37i9dQZF1DWT9XEOPDgFX3",
+    "1WXXO8g0zyY9f2OIRsL96X"
+  ],
+  "alternative": [
+    "37i9dQZF1DX9GRpeH4CL0S",
+    "3jtuOxsrTRAWvPPLvlW1VR",
+    "37i9dQZF1DX82GYcclJ3Ug"
+  ]
 }
